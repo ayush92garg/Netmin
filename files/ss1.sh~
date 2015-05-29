@@ -1,0 +1,6 @@
+#this is a shell script
+
+echo "enter your name"
+read name
+echo $ame
+echo "welcome $name how are u"
